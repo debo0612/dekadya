@@ -4,31 +4,26 @@ body {
 }
     
 
-
-
-
-
 main { font-style: italic;
-    color : purple;
+    color : ;
     font-size: 60px;
    font-family: sans-serif;
-    list-style: georgian;
+    list-style: square;
     text-align: center;
-    
-  
-   
-    
-}
+
+    }
 
 header li
 {
-    display : inline-block;
-    font-weight : 10px;
-        width: 25%;
-    margin-left: 25px;
+    display :inline-block;
+    font-weight : 15px;
+        width: 20%;
+    margin-left: 50px;
     text-align: center;
-border-style: inherit;
+border-style:dashed;
     background-color: pink;
+    border-color: purple;
+    color: purple;
 }
     
 header 
@@ -36,15 +31,22 @@ header
     color: purple;
 }
 
-header title { color: red;
+header ul {
+    text-align:center;
+}
+
+header title { color: purple;
     font-style: normal;
     font-size: 15px;
     font-family: serif;
     font-stretch: ultra-condensed;
 }
 
+h5 {color: pink;
+    font-size: 80px;
+}
 
-h5 { color: pink;
+h6 { color: purple;
     font-style: normal;
     font-size: 50px;
     font-family: sans-serif;
@@ -53,15 +55,15 @@ h5 { color: pink;
     text-decoration-color: purple;
 }
 
-h6  { color: pink;
+h7  { color: purple;
     font-style: normal;
-    font-size: 50px;
+    font-size: 60px;
     font-family: sans-serif;
     font-stretch:bold;
     text-decoration: underline;
     text-decoration-color: purple;
 }
-h7 { color: pink;
+h8 { color: purple;
     font-style: normal;
     font-size: 50px;
     font-family:sans-serif;
@@ -69,3 +71,8 @@ h7 { color: pink;
     text-decoration: underline;
     text-decoration-color: purple;
 }
+ strong { text-decoration : underline;
+     font-stretch: bold;
+ }
+
+p { color: black;
