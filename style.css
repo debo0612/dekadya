@@ -10,9 +10,11 @@ body {
 
 main { font-style: italic;
     color : purple;
-    font-size: 35px;
+    font-size: 60px;
    font-family: sans-serif;
     list-style: georgian;
+    text-align: center;
+    
   
    
     
@@ -29,7 +31,10 @@ border-style: inherit;
     background-color: pink;
 }
     
-
+header 
+{ text-decoration: none;
+    color: purple;
+}
 
 header title { color: red;
     font-style: normal;
@@ -38,22 +43,29 @@ header title { color: red;
     font-stretch: ultra-condensed;
 }
 
-h4 li { color: red;
+
+h5 { color: pink;
     font-style: normal;
-    font-size: 20px;
-    font-family:sans-serif;
-    font-stretch:bold;
-}
-h2 { color: red;
-    font-style: normal;
-    font-size: 20px;
+    font-size: 50px;
     font-family: sans-serif;
     font-stretch: bold;
+    text-decoration: underline;
+    text-decoration-color: purple;
 }
 
-h3 li { color: red;
+h6  { color: pink;
     font-style: normal;
-    font-size: 20px;
+    font-size: 50px;
     font-family: sans-serif;
     font-stretch:bold;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+h7 { color: pink;
+    font-style: normal;
+    font-size: 50px;
+    font-family:sans-serif;
+    font-stretch:bold;
+    text-decoration: underline;
+    text-decoration-color: purple;
 }
