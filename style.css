@@ -1,0 +1,59 @@
+body { 
+    background-image: url(https://farm8.staticflickr.com/7428/11137789645_07dbcd6dbe.jpg); 
+    
+}
+    
+
+
+
+
+
+main { font-style: italic;
+    color : purple;
+    font-size: 35px;
+   font-family: sans-serif;
+    list-style: georgian;
+  
+   
+    
+}
+
+header li
+{
+    display : inline-block;
+    font-weight : 10px;
+        width: 25%;
+    margin-left: 25px;
+    text-align: center;
+border-style: inherit;
+    background-color: pink;
+}
+    
+
+
+header title { color: red;
+    font-style: normal;
+    font-size: 15px;
+    font-family: serif;
+    font-stretch: ultra-condensed;
+}
+
+h4 li { color: red;
+    font-style: normal;
+    font-size: 20px;
+    font-family:sans-serif;
+    font-stretch:bold;
+}
+h2 { color: red;
+    font-style: normal;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-stretch: bold;
+}
+
+h3 li { color: red;
+    font-style: normal;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-stretch:bold;
+}
